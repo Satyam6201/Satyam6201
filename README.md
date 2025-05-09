@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
-  <img src="https://raw.githubusercontent.com/satyam6201/satyam6201/main/assets/c8887275-9a7a-4fcf-9fb8-3292403012e0.png" alt="Satyam Image" width="300" style="border-radius: 10px;" />
+  <img src="![WhatsApp Image 2025-01-28 at 23 49 02_8c243efa](https://github.com/user-attachments/assets/799bbb71-fc62-4909-acc1-03ffeda6313e)
+" alt="Satyam Image" width="300" style="border-radius: 10px;" />
 </p>
 
 ---
