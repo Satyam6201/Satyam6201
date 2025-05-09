@@ -1,36 +1,78 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar Mishra</h1>
-<h3 align="center">Full-Stack Developer in the Making | React.js Wizard | Building Modern Web Experiences</h3>
+<h3 align="center">🚀 Full-Stack Developer in the Making | 💻 React.js Wizard | 🛠️ Builder of Modern Web Experiences</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-- 🔭 I’m currently working on [Portfolio-WebPage](https://portfolio-website-six-nu-82.vercel.app/)
-
-- 🌱 I’m currently learning **🧩 Data Structures & Algorithms**
-
-- 👯 I’m looking to collaborate on **MovieStreamHub**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-website-six-nu-82.vercel.app/](https://portfolio-website-six-nu-82.vercel.app/)
-
-- 💬 Ask me about **MERN Stack Projects & DSA in Java**
-
-- 📫 How to reach me **satyamkmishraa@gmail.com**
-
-- ⚡ Fun fact **I love building projects that blend code with creativity – like creating a 3D product showcase or designing interactive web games!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@satyamkmishraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyam mishra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kumar mishra" height="30" width="40" /></a>
-<a href="https://fb.com/Sãtyãm-Mîshrã" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sãtyãm mîshrã" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyammishra62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyammishra62" height="30" width="40" /></a>
-<a href="https://discord.gg/satyamkumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Satyam Kumar Mishra" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B9AF7&center=true&vCenter=true&width=435&lines=Crafting+Clean+UIs+with+React.js;Solving+Real+Problems+with+Code;MERN+Stack+Developer;DSA+Enthusiast+in+Java;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/satyam6201/satyam6201/main/assets/c8887275-9a7a-4fcf-9fb8-3292403012e0.png" alt="Satyam Image" width="300" style="border-radius: 10px;" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam6201&show_icons=true&locale=en&layout=compact" alt="satyam6201" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&locale=en" alt="satyam6201" /></p>
+- 🔭 I’m currently working on: [**MovieStreamHub**](https://portfolio-website-six-nu-82.vercel.app/)
+- 🌱 Currently diving deep into: **Data Structures & Algorithms (Java)**
+- 👯 Open to collaborate on: **MERN Stack Projects** & **Hackathons**
+- 🌐 Portfolio: [**My Portfolio Website**](https://portfolio-website-six-nu-82.vercel.app/)
+- 💬 Ask me about: **React, Node.js, MongoDB, Express & DSA**
+- 📫 Reach me at: **satyamkmishraa@gmail.com**
+- ⚡ Fun Fact: *I build apps that do more than one thing – clocks that tell time, weather, and remind you to chill!*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&" alt="satyam6201" /></p>
+---
+
+### 📲 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/satyamkmishraa" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100024550755973" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://leetcode.com/satyammishra62" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://discord.gg/satyamkumarmishra" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/satyammishra_467/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,bootstrap,tailwind,reactnative,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=radical&border_radius=10" alt="Satyam's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6201&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### 🎬 [MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)
+> Netflix-style movie streaming & download app with modern UI, TMDB API integration, search, filters, and modal previews.
+
+#### 🌐 [Portfolio Website](https://portfolio-website-six-nu-82.vercel.app/)
+> A sleek, responsive personal portfolio showcasing my projects, certifications, blog, and resume.
+
+---
+
+### 💡 Quote I Live By
+> *“First, solve the problem. Then, write the code.”* — John Johnson
+
+---
+
+### 🧠 Fun Coding Fact
+> **I’ve built clocks that show time, weather, alarms, and more — because simple is too boring for a developer! 😄**
+
+---
+
+### ✨ Visitors  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" alt="satyam6201" />
+</p>
