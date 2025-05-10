@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,bootstrap,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,react router,react hook form,redux,nodejs,express,mongodb,mysql,java,php,git,github,vite,bootstrap,tailwind,nodemon,firebase,canva,vscode" />
 </p>
 
 ---
