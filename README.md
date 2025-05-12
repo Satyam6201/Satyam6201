@@ -75,7 +75,7 @@
 #### 🌐 [Portfolio Website](https://portfolio-website-six-nu-82.vercel.app/)
 > A sleek, responsive personal portfolio showcasing my projects, certifications, blog, and resume.
 
-#### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock)
+#### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
 > Multi-feature clock app with dark mode, alarm, time zones, and live weather display using external APIs.
 
 #### 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game)
