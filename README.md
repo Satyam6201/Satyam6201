@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyam Kumar Mishra</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#1B9AF7;">Satyam Kumar Mishra</span></h1>
 <h3 align="center">🚀 Full-Stack Developer in the Making | 💻 React.js Wizard | 🛠️ Builder of Modern Web Experiences</h3>
 
 <p align="center">
@@ -57,6 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=radical&border_radius=10" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6201&layout=compact&theme=radical&border_radius=10" height="170"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&theme=radical&border_radius=10"/>
 </p>
@@ -97,12 +98,19 @@
 
 ---
 
-### 🧠 Fun Coding Fact
-> **I’ve built clocks that show time, weather, alarms, and more — because simple is too boring for a developer! 😄**
+### 🧠 Fun Coding Facts
+
+- 🕐 I built a clock that has more features than my phone’s!
+- 🌧️ My weather app knows when to cancel your plans 😎
+- 🔐 My JWT token lasts longer than most relationships 😂
+- 🧠 My DSA skills are sharper than VS Code’s autocomplete!
+- 🎯 I once debugged an issue… and it turned out to be a typo 🙃
+- 💡 I still think “console.log” is a personality trait.
 
 ---
 
 ### ✨ Visitors Count
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" alt="satyam6201" />
 </p>
