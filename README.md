@@ -86,7 +86,7 @@
 
 ### 📚 Certifications & Volunteering
 
-- ✔️ **Apna College - Full Stack Development**  
+- ✔️ **Apna College - Full Stack Development**
 - 🎓 **Workshop Organizer** – Python, Web Dev & C++
 - 🎤 **Mentor & Guide** for juniors in DSA & MERN
 - 💬 **Club Volunteer** – Event host, T&P contributor
