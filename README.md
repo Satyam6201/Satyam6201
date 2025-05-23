@@ -2,95 +2,115 @@
 <h3 align="center">🚀 Full-Stack Developer in the Making | 💻 React.js Wizard | 🛠️ Builder of Modern Web Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B9AF7&center=true&vCenter=true&width=500&lines=Crafting+Clean+UIs+with+React.js;Solving+Real+Problems+with+Code;MERN+Stack+Developer;Java+DSA+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B9AF7&center=true&vCenter=true&width=500&lines=Crafting+Clean+UIs+with+React.js;Solving+Real+Problems+with+Code;MERN+Stack+Developer;DSA+Enthusiast+in+Java;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently building: [**MovieStreamHub**](https://portfolio-website-six-nu-82.vercel.app/)
-- 🌱 Exploring: **Data Structures & Algorithms (Java)**
-- 🤝 Looking to collaborate on: **MERN Stack Projects**, **Hackathons**, **Open Source**
-- 🌐 Visit my Portfolio: [**My Website**](https://portfolio-website-six-nu-82.vercel.app/)
-- 💬 Ask me about: **React, Node.js, MongoDB, Express, DSA, APIs**
-- 📫 Contact: **satyamkmishraa@gmail.com**
-- ⚡ Fun Fact: *I build apps that tell time, predict weather & deliver smiles! 😄*
+- 🔭 Working on: **[MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)**
+- 🌱 Exploring: **DSA with Java** & building advanced **MERN stack apps**
+- 🤝 Open to: **Hackathons, Freelance Projects, Open Source Collaboration**
+- 🌐 Portfolio: [**portfolio-website-six-nu-82.vercel.app**](https://portfolio-website-six-nu-82.vercel.app/)
+- 💬 Ask me about: **React, Node.js, MongoDB, Express, REST APIs, DSA**
+- 📫 Email me at: **satyamkmishraa@gmail.com**
+- ⚡ Fun Fact: *I build apps that tell time, predict weather, and boost productivity!*
 
 ---
 
-### 🌍 Connect with Me
+## 📲 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/satyamkmishraa"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/satyammishra_467/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/satyammishra62"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="https://discord.gg/satyamkumarmishra"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://twitter.com/satyamkmishraa"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100024550755973"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://leetcode.com/satyammishra62"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://discord.gg/satyamkumarmishra"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/satyammishra_467/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,redux,nextjs,tailwind,bootstrap,mysql,php,git,github,firebase,vite,vercel,netlify,figma,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=react&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=9fadc3" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6201&layout=compact&theme=react&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,php,java,python,git,github,firebase,vercel,netlify,figma,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&theme=react&hide_border=true&border_radius=10"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=radical&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6201&layout=compact&theme=radical&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam6201&theme=onestar&row=1&column=6&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&theme=radical&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyam6201&theme=radical&no-frame=true&row=1&margin-w=15&column=6" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎬 [**MovieStreamHub**](https://portfolio-website-six-nu-82.vercel.app/) | Netflix-style movie streaming with TMDB API, search, genre filter, download & modal UI | `React`, `TMDB API`, `CSS`, `Responsive UI` |
-| 🌐 [**Portfolio Website**](https://portfolio-website-six-nu-82.vercel.app/) | Modern portfolio with project gallery, blogs, certifications, and contact form | `React`, `JavaScript`, `HTML`, `CSS` |
-| 🕒 [**Digital Clock App**](https://github.com/Satyam6201/Digital-Clock-App) | Clock with alarms, weather API, time zones, light/dark mode & animations | `React`, `JS`, `OpenWeather API`, `CSS` |
-| 🎮 [**Memory Card Game**](https://github.com/Satyam6201/Memory-Card-Game) | Interactive React card matching game with smooth animations and game logic | `React`, `HTML`, `CSS` |
+### 🎬 [MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)
+> Netflix-style movie streaming & download app with TMDB API integration, genre filters, search, modals & modern UI.
 
----
+### 🌐 [Portfolio Website](https://portfolio-website-six-nu-82.vercel.app/)
+> Sleek, responsive site with project showcase, blogs, certificates, resume, and social links.
 
-### 📚 Certifications & Volunteering
+### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
+> Multi-feature React clock: dark mode, alarm, live weather, timezone switch, PWA-ready!
 
-- ✔️ **Apna College - Full Stack Development**
-- 🧠 **Mentor & Guide** for juniors in MERN and DSA
-- 🎤 **Workshop Organizer** – Python, C++, Web Dev
-- 🫶 **Club Volunteer** – Event host, T&P Contributor
+### 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game)
+> Fun & animated matching game made with React.js. Smooth UX, shuffle logic, responsive.
 
 ---
 
-### ✨ Fun Facts About Me
+## 📚 Certifications & Volunteering
 
-- 🕐 I built a clock that has more features than your smartwatch!
-- 🔐 My JWT token lasts longer than some friendships 😂
-- 🌧️ My weather app knows whether you’ll need an umbrella ☔
-- ⚙️ I debugged a whole app only to find a missing semicolon 😅
-- 🧠 My VS Code themes change with my mood
+- ✔️ **Full Stack Development – Apna College**
+- 🎓 **Workshop Organizer** – Python, Web Dev & C++
+- 🎤 **Mentor & Guide** – Juniors in DSA & MERN
+- 💬 **Club Volunteer** – Event Host, T&P Department Contributor
 
 ---
 
-### 📈 Visitors
+## 💡 Quote I Live By
+
+> *“First, solve the problem. Then, write the code.”* — John Johnson
+
+---
+
+## 🧠 Fun Dev Facts
+
+- 🕐 Built a clock smarter than your smartphone.
+- 🌧️ My weather app cancels plans for you 😎
+- 🔐 My JWT tokens outlive short-term friendships 😂
+- 🧠 My DSA is stronger than ChatGPT’s typing speed!
+- 🎯 Debugged a full app once… turned out to be a semicolon.
+- 💡 Yes, I *do* console.log my way through life.
+
+---
+
+## ✨ Visitors Count
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" alt="satyam6201" />
