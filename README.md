@@ -13,17 +13,18 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on: **[MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)**
-- 🌱 Exploring: **DSA with Java** & building advanced **MERN stack apps**
-- 🤝 Open to: **Hackathons, Freelance Projects, Open Source Collaboration**
-- 🌐 Portfolio: [**portfolio-website-six-nu-82.vercel.app**](https://portfolio-website-six-nu-82.vercel.app/)
-- 💬 Ask me about: **React, Node.js, MongoDB, Express, REST APIs, DSA**
-- 📫 Email me at: **satyamkmishraa@gmail.com**
+- 🔭 Currently working on: **[MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)**
+- 🌱 Learning: **Advanced DSA (Java)** & building full-stack **MERN Projects**
+- 🧠 Exploring: **AI Integration in Frontend Projects**, Firebase, and Serverless Functions
+- 💬 Ask me about: `React.js`, `Node.js`, `MongoDB`, `Express`, `REST APIs`, `Firebase`, `JWT`, `DSA`
+- 📫 Email me: **satyamkmishraa@gmail.com**
+- 🌐 Portfolio: [**portfolio-website**](https://portfolio-website-six-nu-82.vercel.app/)
+- 🛠️ Always open to: Freelance work | Collabs | Hackathons | Mentoring
 - ⚡ Fun Fact: *I build apps that tell time, predict weather, and boost productivity!*
 
 ---
 
-## 📲 Connect with Me
+## 📲 Let's Connect!
 
 <p align="center">
   <a href="https://twitter.com/satyamkmishraa"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -36,10 +37,10 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,java,git,github,firebase,vercel,netlify,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,mysql,java,git,github,figma,firebase,vercel,netlify,vscode" />
 </p>
 
 <p align="center">
@@ -51,7 +52,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
+
+### 🎬 [MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)
+> **Netflix-style movie streaming** & download app using TMDB API, modals, search, filters, and a responsive modern UI.
+
+### 🌐 [Portfolio Website](https://portfolio-website-six-nu-82.vercel.app/)
+> A beautifully crafted personal portfolio to showcase my projects, blogs, resume, certificates, and contact details.
+
+### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
+> Multi-feature smart clock with timezone switching, dark mode, alarm, live weather, and PWA support.
+
+### 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game)
+> Fun React-based memory matching game with shuffle logic, animations, and responsive gameplay.
+
+### ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App)
+> Dynamic quiz platform powered by an API – live questions, scoring, timer, and detailed feedback.
+
+---
+
+## 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=radical&border_radius=10" height="170"/>
@@ -68,49 +88,32 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎬 [MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)
-> Netflix-style movie streaming & download app with TMDB API integration, genre filters, search, modals & modern UI.
-
-### 🌐 [Portfolio Website](https://portfolio-website-six-nu-82.vercel.app/)
-> Sleek, responsive site with project showcase, blogs, certificates, resume, and social links.
-
-### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
-> Multi-feature React clock: dark mode, alarm, live weather, timezone switch, PWA-ready!
-
-### 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game)
-> Fun & animated matching game made with React.js. Smooth UX, shuffle logic, responsive.
-
----
-
 ## 📚 Certifications & Volunteering
 
-- ✔️ **Full Stack Development – Apna College**
-- 🎓 **Workshop Organizer** – Python, Web Dev & C++
-- 🎤 **Mentor & Guide** – Juniors in DSA & MERN
-- 💬 **Club Volunteer** – Event Host, T&P Department Contributor
+- 🧑‍💻 **Full Stack Development – Apna College**
+- 🎓 **Workshop Organizer**: Python, Web Dev, C++
+- 🗣️ **Mentor**: Juniors in DSA & MERN stack dev
+- 💼 **Club Volunteer**: Technical event host, T&P department contributor
 
 ---
 
-## 💡 Quote I Live By
+## ✨ Fun Dev Facts
+
+- 🕒 Built a smart clock that understands time zones better than your phone.
+- 🌧️ Weather app that helps cancel plans early 😜
+- 🔐 JWT tokens secured like vaults.
+- 💻 Typing speed increased by debugging semicolons.
+- 🧠 I log `console.log` more than my own thoughts.
+
+---
+
+## 💬 Dev Quote I Live By
 
 > *“First, solve the problem. Then, write the code.”* — John Johnson
 
 ---
 
-## 🧠 Fun Dev Facts
-
-- 🕐 Built a clock smarter than your smartphone.
-- 🌧️ My weather app cancels plans for you 😎
-- 🔐 My JWT tokens outlive short-term friendships 😂
-- 🧠 My DSA is stronger than ChatGPT’s typing speed!
-- 🎯 Debugged a full app once… turned out to be a semicolon.
-- 💡 Yes, I *do* console.log my way through life.
-
----
-
-## ✨ Visitors Count
+## 👀 Visitor Count
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" alt="satyam6201" />
