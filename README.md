@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **[MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)**
 - 🌱 Learning: **Advanced DSA (Java)** & building full-stack **MERN Projects**
 - 🧠 Exploring: **AI Integration in Frontend Projects**, Firebase, and Serverless Functions
 - 💬 Ask me about: `React.js`, `Node.js`, `MongoDB`, `Express`, `REST APIs`, `Firebase`, `JWT`, `DSA`
