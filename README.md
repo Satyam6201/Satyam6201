@@ -25,6 +25,9 @@
 
 ## 🌟 Featured Projects
 
+### 🛒 [Amazon Clone - React.js](https://github.com/Satyam6201/Amazon-Clone---React.js)
+> Fully responsive Amazon clone built with React.js featuring product browsing, cart management, user authentication, and modern UI/UX design.
+
 ### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
 > Smart clock with timezone switching, dark mode, alarm with stop button, live weather updates, PWA support, and smooth animations.
 
