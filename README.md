@@ -8,8 +8,6 @@
 <!-- Side by side poster and gif -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" style="border-radius:15px; box-shadow: 0 5px 15px rgba(27, 154, 247, 0.3); margin-right: 20px;" />
-  ![Developer Poster](https://i.postimg.cc/c49pVhMz/dev-poster.png)
-
 </p>
 
 ---
