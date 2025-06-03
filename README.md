@@ -25,9 +25,6 @@
 
 ## 🌟 Featured Projects
 
-### 🎬 [MovieStreamHub](https://portfolio-website-six-nu-82.vercel.app/)
-> Netflix-style streaming and downloading app with TMDB API integration, dynamic modals, search & filter functionalities, and a fully responsive modern UI.
-
 ### 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App)
 > Smart clock with timezone switching, dark mode, alarm with stop button, live weather updates, PWA support, and smooth animations.
 
