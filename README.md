@@ -117,3 +117,25 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" alt="satyam6201" />
 </p>
+
+---
+
+## 🧠 Tips for Writing Clean and Maintainable Code
+
+Writing clean code is essential for maintainability and collaboration. Here are some best practices:
+
+### 1. Use Descriptive Naming
+
+Choose clear and descriptive names for variables, functions, and classes to make your code self-explanatory.
+
+```javascript
+// ❌ Poor naming
+function fn(a, b) {
+  return a + b;
+}
+
+// ✅ Descriptive naming
+function calculateSum(number1, number2) {
+  return number1 + number2;
+}
+
