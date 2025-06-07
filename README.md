@@ -94,7 +94,8 @@
   *Hosted hands-on workshops for 400+ students in Python, C++, and Web Development.*  
 - 🧑‍🏫 **Mentor & Guide:**  
   *Actively mentor juniors in mastering DSA (Java) and full-stack MERN development. Helped many build their first real-world projects.*
-- 💼 **Club Volunteer:** Technical event host, Training & Placement department contributor
+- 🤝 **Volunteer Experience:**  
+  *Member of Training & Placement Cell – managed communication, organized tech events & coding competitions, and helped peers prepare for interviews.*
 
 ---
 
