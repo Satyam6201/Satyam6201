@@ -37,20 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 [Amazon Clone](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with product filters, cart, authentication, and responsive design | React.js, Firebase |
-| 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App) | Clock + Timezone switcher + Alarms + Weather + PWA | React.js, JavaScript, CSS |
-| 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game) | Interactive game with CSS animations and shuffle logic | React.js |
-| ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring, timer, and feedback | React.js, REST API |
-| 🎨 AI Image Editor *(WIP)* | Upload, crop, filter, and use AI to remove objects from images | React.js, Canvas API |
-| 🛍️ [E-Commerce Customizer](#) *(Coming Soon)* | Customize T-Shirts, Mugs, and Posters in real-time | React.js, Fabric.js |
-| 🎥 [MovieStreamHub](#) *(Major Project)* | Netflix-style streaming platform using TMDB API | React.js, API, CSS |
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
@@ -63,6 +49,20 @@
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 [Amazon Clone](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with product filters, cart, authentication, and responsive design | React.js, Firebase |
+| 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App) | Clock + Timezone switcher + Alarms + Weather + PWA | React.js, JavaScript, CSS |
+| 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game) | Interactive game with CSS animations and shuffle logic | React.js |
+| ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring, timer, and feedback | React.js, REST API |
+| 🎨 AI Image Editor *(WIP)* | Upload, crop, filter, and use AI to remove objects from images | React.js, Canvas API |
+| 🛍️ [E-Commerce Customizer](#) *(Coming Soon)* | Customize T-Shirts, Mugs, and Posters in real-time | React.js, Fabric.js |
+| 🎥 [MovieStreamHub](#) *(Major Project)* | Netflix-style streaming platform using TMDB API | React.js, API, CSS |
 
 ---
 
