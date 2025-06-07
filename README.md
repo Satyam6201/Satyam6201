@@ -62,7 +62,6 @@
 | ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring, timer, and feedback | React.js, REST API |
 | 🎨 AI Image Editor *(WIP)* | Upload, crop, filter, and use AI to remove objects from images | React.js, Canvas API |
 | 🛍️ [E-Commerce Customizer](#) *(Coming Soon)* | Customize T-Shirts, Mugs, and Posters in real-time | React.js, Fabric.js |
-| 🎥 [MovieStreamHub](#) *(Major Project)* | Netflix-style streaming platform using TMDB API | React.js, API, CSS |
 
 ---
 
