@@ -86,7 +86,8 @@
 
 ## 📚 Certifications & Volunteering
 
-- 🧑‍💻 **Full Stack Development** – Apna College
+- 🧑‍💻 **Full Stack Web Development** – Apna College  
+  *Built real-world projects including E-Commerce platforms, Auth systems & RESTful APIs.*
 - 🎓 **Workshop Organizer:** Python, Web Development, C++
 - 🗣️ **Mentor:** Juniors in DSA & MERN stack development
 - 💼 **Club Volunteer:** Technical event host, Training & Placement department contributor
