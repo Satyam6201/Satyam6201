@@ -90,7 +90,8 @@
   *Built real-world projects including E-Commerce platforms, Auth systems & RESTful APIs.*
 - ☕ **Java Programming & DSA** – Apna College  
   *Mastered core Java concepts, OOPs, Collections, and practiced 300+ DSA problems.*
-- 🎓 **Workshop Organizer:** Python, Web Development, C++
+- 🎓 **Workshop Organizer:**  
+  *Hosted hands-on workshops for 400+ students in Python, C++, and Web Development.*  
 - 🗣️ **Mentor:** Juniors in DSA & MERN stack development
 - 💼 **Club Volunteer:** Technical event host, Training & Placement department contributor
 
