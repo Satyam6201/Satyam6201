@@ -92,7 +92,8 @@
   *Mastered core Java concepts, OOPs, Collections, and practiced 300+ DSA problems.*
 - 🎓 **Workshop Organizer:**  
   *Hosted hands-on workshops for 400+ students in Python, C++, and Web Development.*  
-- 🗣️ **Mentor:** Juniors in DSA & MERN stack development
+- 🧑‍🏫 **Mentor & Guide:**  
+  *Actively mentor juniors in mastering DSA (Java) and full-stack MERN development. Helped many build their first real-world projects.*
 - 💼 **Club Volunteer:** Technical event host, Training & Placement department contributor
 
 ---
