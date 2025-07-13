@@ -52,6 +52,26 @@
 
 ---
 
+## 🛤️ My Developer Journey
+
+- 🚀 **2022** – Started Web Development with HTML, CSS, and JavaScript  
+- 💡 **2023** – Built 10+ projects using React, Firebase, MongoDB  
+- 🔄 **2024** – Learned MERN stack, JWT Auth, GraphQL & SaaS Dashboards  
+- ⚙️ **2025** – Exploring AI apps, 3D modeling, and Open Source contributions  
+
+---
+
+## 🧠 AI-Powered & Advanced Projects
+
+| Project | Features | Tech & Links |
+|--------|----------|--------------|
+| 🎨 **AI Image Editor** *(WIP)* | Remove objects with AI, crop, filter, resize, real-time preview | React, Canvas API, AI |
+| 🧠 **AI Guessing Game** *(Coming Soon)* | AI guesses image using user hints | React, OpenAI API, CSS |
+| 🏠 **3D Room Planner** *(Coming Soon)* | Drag-drop furniture, wall textures, lighting | React, Three.js, WebGL |
+| 🎥 **Netflix Clone** *(Under Dev)* | Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -60,48 +80,58 @@
 | 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App) | Clock + Timezone switcher + Alarms + Weather + PWA | React.js, JavaScript, CSS |
 | 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game) | Interactive game with CSS animations and shuffle logic | React.js |
 | ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring, timer, and feedback | React.js, REST API |
-| 🎨 AI Image Editor *(WIP)* | Upload, crop, filter, and use AI to remove objects from images | React.js, Canvas API |
-| 🛍️ [E-Commerce Customizer](#) *(Coming Soon)* | Customize T-Shirts, Mugs, and Posters in real-time | React.js, Fabric.js |
 
 ---
 
-## 📚 Certifications & Volunteering
+## 🧑‍🏫 Mentoring & Community Work
+
+- 💬 Mentored 100+ juniors in MERN stack, resume building, and GitHub setup  
+- 👨‍🏫 Led workshops in Web Dev, Python, and DSA for 400+ students  
+- 📋 Trained in resume reviews, coding contests, and event coordination  
+- 🌐 Built dashboards and portfolios for peers using Firebase, React, Tailwind  
+
+---
+
+## 📚 Certifications
 
 - 🧑‍💻 **Full Stack Web Development** – *Apna College*  
-  *Built real-world projects including E-Commerce apps, Auth systems & RESTful APIs.*
 - ☕ **Java Programming & DSA** – *Apna College*  
-  *Mastered Java OOPs, Collections, Recursion, and solved 300+ DSA problems.*
-- 🎓 **Workshop Organizer**  
-  *Led 400+ students in coding bootcamps (Python, Web Development, C++).*
-- 🧑‍🏫 **Mentor & Guide**  
-  *Helping juniors in MERN stack, resume building & GitHub portfolio optimization.*
-- 💼 **Training & Placement Volunteer**  
-  *Helped organize tech events, mock interviews, resume reviews, and coding contests.*
+- 🎓 **Workshop Organizer** – *College Bootcamps*  
+- 🧑‍🏫 **Community Contributor** – *GitHub / Events*  
 
 ---
 
-## 💼 Freelance & Community Contributions
+## 🧩 Currently Learning
 
-- 🔧 Built portfolios and dashboards for peers using React, Firebase, and Tailwind
-- ✍️ Created content & solutions for DSA blogs
-- 🤝 Contributed to college-level open-source projects and coding groups
-- 💬 Regularly help juniors debug projects and understand tricky concepts in DSA
+- 🔀 GraphQL + Apollo Client  
+- 🧠 OpenAI & Langchain Integration  
+- 🐳 Docker, Vercel Functions, AWS  
+- 💥 GitHub Actions CI/CD  
 
 ---
 
 ## 💬 Dev Quote I Live By
 
-> *“First, solve the problem. Then, write the code.”* — John Johnson
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
-## ✨ Fun Dev Facts
+## 🎯 Fun Dev Facts
 
-- 🕒 Built a smart clock that syncs better than your phone’s time
-- 🌩️ My weather app can predict a ruined picnic 🌧️
-- 🔐 I protect APIs like Fort Knox using JWT
-- 💻 Debugging semicolons made me a faster typist
-- 👨‍🏫 console.log() is my best friend in pair programming
+- ⏰ Built a smart clock that syncs better than your phone  
+- 🌦️ Weather app predicts your picnic plans  
+- 🔐 Protects APIs with JWT like Fort Knox  
+- 🧪 Debugging semicolons made me faster at typing  
+- 💻 `console.log()` is my best friend  
+
+---
+
+## 🧠 Ideas I'm Exploring
+
+- 💬 Real-time Chat App with Encryption  
+- 🧠 AI Blog Writer with Notion Integration  
+- 📈 Resume Analyzer with Smart Suggestions  
+- 🛍️ AR T-Shirt Try-On using Camera  
 
 ---
 
@@ -122,8 +152,21 @@
 
 ---
 
+## 📊 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201)
+
+---
+
 ## 👀 Visitor Count
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+## 🪄 Bonus Badges
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Code Time](https://img.shields.io/endpoint?url=https://codetime-api.deno.dev/satyam6201)
