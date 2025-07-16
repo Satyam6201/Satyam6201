@@ -173,10 +173,9 @@
 ## 🧮 LeetCode Contribution Calendar
 
 <p align="center">
-  <img src="https://your-image-upload-url.com/leetcode-calendar.png" width="700" alt="LeetCode Contribution Calendar" />
+  <img width="1480" height="756" alt="image" src="https://github.com/user-attachments/assets/3b3c9e9f-66d9-40f4-9126-08ca5c41fd13" /> alt="LeetCode Contribution Calendar" />
 </p>
 
-> Replace with your screenshot of the LeetCode calendar or a hosted SVG using LeetGraph.
 
 ---
 
