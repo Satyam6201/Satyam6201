@@ -1,17 +1,4 @@
 
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-## 🎯 Fun Dev Facts
-
-- ⏰ Built a smart clock that syncs better than your phone  
-- 🌦️ Weather app predicts your picnic plans  
-- 🔐 Protects APIs with JWT like Fort Knox  
-- 🧪 Debugging semicolons made me faster at typing  
-- 💻 `console.log()` is my best friend  
-
 ---
 
 ## 🧠 Ideas I'm Exploring
