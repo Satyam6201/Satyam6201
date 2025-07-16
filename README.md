@@ -1,14 +1,5 @@
 C
----
-
-## 🧠 AI-Powered & Advanced Projects
-
-| Project | Features | Tech & Links |
-|--------|----------|--------------|
-| 🎨 **AI Image Editor** *(WIP)* | Remove objects with AI, crop, filter, resize, real-time preview | React, Canvas API, AI |
-| 🧠 **AI Guessing Game** *(Coming Soon)* | AI guesses image using user hints | React, OpenAI API, CSS |
-| 🏠 **3D Room Planner** *(Coming Soon)* | Drag-drop furniture, wall textures, lighting | React, Three.js, WebGL |
-| 🎥 **Netflix Clone** *(Under Dev)* | Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
+ Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
 
 ---
 
