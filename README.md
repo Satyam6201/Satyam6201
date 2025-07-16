@@ -1,14 +1,5 @@
 C
- Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
-
-## 🧑‍🏫 Mentoring & Community Work
-
-- 💬 Mentored 100+ juniors in MERN stack, resume building, and GitHub setup  
-- 👨‍🏫 Led workshops in Web Dev, Python, and DSA for 400+ students  
-- 📋 Trained in resume reviews, coding contests, and event coordination  
-- 🌐 Built dashboards and portfolios for peers using Firebase, React, Tailwind  
-
----
+ 
 
 ## 📚 Certifications
 
