@@ -1,15 +1,4 @@
-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
-## 🛤️ My Developer Journey
-
-- 🚀 **2022** – Started Web Development with HTML, CSS, and JavaScript  
-- 💡 **2023** – Built 10+ projects using React, Firebase, MongoDB  
-- 🔄 **2024** – Learned MERN stack, JWT Auth, GraphQL & SaaS Dashboards  
-- ⚙️ **2025** – Exploring AI apps, 3D modeling, and Open Source contributions  
-
+C
 ---
 
 ## 🧠 AI-Powered & Advanced Projects
