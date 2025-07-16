@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#1B9AF7;">Satyam Kumar Mishra</span></h1>
-<h3 align="center">🚀 Full-Stack Developer in the Making | 💻 React.js Wizard | 🛠️ Builder of Modern Web Experiences</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B9AF7&center=true&vCenter=true&width=500&lines=Crafting+Clean+UIs+with+React.js;Solving+Real+Problems+with+Code;MERN+Stack+Developer;DSA+Enthusiast+in+Java;Open+Source+Contributor;Tech+Mentor+%7C+Community+Builder" alt="Typing SVG" />
-</p>
-
-<p align="center">
+<n="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" />
 </p>
 
