@@ -152,6 +152,14 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SatyamMishra62?theme=dark&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201)
