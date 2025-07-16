@@ -1,17 +1,4 @@
 
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/satyamkmishraa"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/satyammishra62"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.instagram.com/satyammishra_467/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/satyamkumarmishra"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
