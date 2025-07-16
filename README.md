@@ -1,25 +1,4 @@
-C
- 
 
-## 📚 Certifications
-
-- 🧑‍💻 **Full Stack Web Development** – *Apna College*  
-- ☕ **Java Programming & DSA** – *Apna College*  
-- 🎓 **Workshop Organizer** – *College Bootcamps*  
-- 🧑‍🏫 **Community Contributor** – *GitHub / Events*  
-
----
-
-## 🧩 Currently Learning
-
-- 🔀 GraphQL + Apollo Client  
-- 🧠 OpenAI & Langchain Integration  
-- 🐳 Docker, Vercel Functions, AWS  
-- 💥 GitHub Actions CI/CD  
-
----
-
-## 💬 Dev Quote I Live By
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
