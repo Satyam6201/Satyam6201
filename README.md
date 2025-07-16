@@ -40,24 +40,7 @@
 
 ---
 
-## 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SatyamMishra62?theme=dark&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201)
-
-
---
-
-## 👀 Visitor Count
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
