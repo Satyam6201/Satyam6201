@@ -165,7 +165,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201)
 
 
----
+--
 
 ## 👀 Visitor Count
 
