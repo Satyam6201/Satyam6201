@@ -1,22 +1,4 @@
-<n="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" />
-</p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech student | Self-taught full-stack enthusiast
-- 🌱 Currently mastering: **Advanced DSA (Java)**, **Next.js**, **GraphQL**, and **Cloud Deployments**
-- 💡 Exploring AI-powered web tools, image processing apps, and modern SaaS dashboards
-- 🔧 Tech Stack: `React.js`, `Node.js`, `Express`, `MongoDB`, `JWT`, `Firebase`, `Redux`, `Tailwind`, `MySQL`, `Java`
-- 🧠 Problem-Solving: 400+ DSA problems on platforms like LeetCode, CodeStudio, and GFG
-- 🛠 Tools: `VSCode`, `Postman`, `GitHub`, `Figma`, `Canva`, `Vercel`, `Netlify`
-- 📨 Reach out: **satyamkmishraa@gmail.com**
-- 🌐 Portfolio: [Visit Here](https://portfolio-website-six-nu-82.vercel.app/)
-- 🎯 Open to: Internships, Freelancing, Open Source, Hackathons, Collaborations
-
----
 
 ## 🔗 Connect With Me
 
