@@ -1,19 +1,6 @@
 C
  Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 [Amazon Clone](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with product filters, cart, authentication, and responsive design | React.js, Firebase |
-| 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App) | Clock + Timezone switcher + Alarms + Weather + PWA | React.js, JavaScript, CSS |
-| 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game) | Interactive game with CSS animations and shuffle logic | React.js |
-| ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring, timer, and feedback | React.js, REST API |
-
----
-
 ## 🧑‍🏫 Mentoring & Community Work
 
 - 💬 Mentored 100+ juniors in MERN stack, resume building, and GitHub setup  
