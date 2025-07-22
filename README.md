@@ -69,17 +69,6 @@
 
 ---
 
-## 🧠 AI-Powered & Advanced Projects
-
-| Project | Features | Tech & Links |
-|--------|----------|--------------|
-| 🎨 **AI Image Editor** *(WIP)* | Remove objects with AI, crop, filter, resize, real-time preview | React, Canvas API, AI |
-| 🧠 **AI Guessing Game** *(Coming Soon)* | AI guesses image using user hints | React, OpenAI API, CSS |
-| 🏠 **3D Room Planner** *(Coming Soon)* | Drag-drop furniture, wall textures, lighting | React, Three.js, WebGL |
-| 🎥 **Netflix Clone** *(Under Dev)* | Movie streaming UI, search, genres, download options | React, TMDB API, Tailwind |
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -106,50 +95,6 @@
 - ☕ **Java Programming & DSA** – *Apna College*  
 - 🎓 **Workshop Organizer** – *College Bootcamps*  
 - 🧑‍🏫 **Community Contributor** – *GitHub / Events*  
-
----
-
-## 🧩 Currently Learning
-
-- 🔀 GraphQL + Apollo Client  
-- 🧠 OpenAI & Langchain Integration  
-- 🐳 Docker, Vercel Functions, AWS  
-- 💥 GitHub Actions CI/CD  
-
----
-
-## 💬 Dev Quote I Live By
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-## 🎯 Fun Dev Facts
-
-- ⏰ Built a smart clock that syncs better than your phone  
-- 🌦️ Weather app predicts your picnic plans  
-- 🔐 Protects APIs with JWT like Fort Knox  
-- 🧪 Debugging semicolons made me faster at typing  
-- 💻 `console.log()` is my best friend  
-
----
-
-## 🧠 Ideas I'm Exploring
-
-- 💬 Real-time Chat App with Encryption  
-- 🧠 AI Blog Writer with Notion Integration  
-- 📈 Resume Analyzer with Smart Suggestions  
-- 🛍️ AR T-Shirt Try-On using Camera  
-
----
-
-## 🎯 2025 Goals
-
-- [x] Solve 500+ LeetCode Problems  
-- [x] Deploy 10+ Full Stack Projects  
-- [ ] Contribute to 3+ Open Source Repositories  
-- [ ] Build AI-Powered SaaS Application  
-- [ ] Grab a Full-Time SDE Internship/Role  
 
 ---
 
