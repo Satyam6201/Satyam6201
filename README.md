@@ -20,7 +20,7 @@
 - 🧠 Problem-Solving: 400+ DSA problems on platforms like LeetCode, CodeStudio, and GFG  
 - 🛠 Tools: `VSCode`, `Postman`, `GitHub`, `Figma`, `Canva`, `Vercel`, `Netlify`  
 - 📨 Reach out: **satyamkmishraa@gmail.com**  
-- 🌐 Portfolio: [Visit Here](https://satyam-devfolio.vercel.app/)  
+- 🌐 Portfolio: [Visit Here](https://satyam-devfolio.vercel.app)  
 - 🎯 Open to: Internships, Freelancing, Open Source, Hackathons, Collaborations  
 
 ---
