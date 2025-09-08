@@ -19,8 +19,35 @@
 ## ⚡ Quick Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile+Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/satyam6201?label=Followers&style=for-the-badge&color=1B9AF7" />
   <img src="https://img.shields.io/github/stars/satyam6201?label=Stars&style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="mailto:satyamkmishraa@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="50px" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/satyamkmishraa">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="50px" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/satyammishra62">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50px" alt="LeetCode"/>
+  </a>
+  <a href="https://www.instagram.com/satyammishra_467/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50px" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/satyamkumarmishra">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="50px" alt="Discord"/>
+  </a>
+  <a href="https://satyam-devfolio.vercel.app">
+    <img src="https://img.icons8.com/color/48/000000/domain--v1.png" width="50px" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
