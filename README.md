@@ -144,6 +144,9 @@
 
 ---
 
+## 📊 GitHub Activity Graph 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201) ---
+
 ## ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/satyam6201"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
