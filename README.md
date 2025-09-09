@@ -58,7 +58,7 @@
 - 🌱 Currently mastering: **Advanced DSA (Java)**, **Next.js**, **GraphQL**, and **Cloud Deployments**  
 - 💡 Exploring AI-powered web tools, image processing apps, and modern SaaS dashboards  
 - 🔧 Tech Stack: `React.js`, `Node.js`, `Express`, `MongoDB`, `JWT`, `Firebase`, `Redux`, `Tailwind`, `MySQL`, `Java`  
-- 🧠 Problem-Solving: 400+ DSA problems on LeetCode, CodeStudio & GFG  
+- 🧠 Problem-Solving: 600+ DSA problems on LeetCode, CodeStudio & GFG  
 - 🛠 Tools: `VSCode`, `Postman`, `GitHub`, `Figma`, `Canva`, `Vercel`, `Netlify`  
 - 📨 Reach out: **satyamkmishraa@gmail.com**  
 - 🌐 Portfolio: [Visit Here](https://satyam-devfolio.vercel.app)  
