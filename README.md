@@ -152,8 +152,6 @@
   <a href="https://www.buymeacoffee.com/satyam6201"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
 </p>
 
----
-
 <div align="center">
   🛠️ Made with ❤️ by <b>Satyam Kumar Mishra</b> | 💬 Always up for collaboration! 🚀
 </div>
