@@ -30,7 +30,7 @@
   <a href="mailto:satyamkmishraa@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="50px" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/satyam-kumar-mishra-9bb980291">
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/satyamkmishraa">
