@@ -3,11 +3,14 @@
 
 ---
 
-<!-- 3D Header Banner -->
+## 🎮 Developer Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN%20Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-DSA-green?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-darkgreen?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
