@@ -76,12 +76,15 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 [Amazon Clone](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with cart & auth | React.js, Firebase |
-| 🕒 [Digital Clock Web App](https://github.com/Satyam6201/Digital-Clock-App) | Clock + Timezones + Weather | React.js, JS, CSS |
-| 🎮 [Memory Card Game](https://github.com/Satyam6201/Memory-Card-Game) | Game with animations & shuffle | React.js |
-| ❓ [Quiz App](https://github.com/Satyam6201/Quiz-App) | API-powered quiz with scoring | React.js, API |
+| 🚀 Project | Description | Tech Stack |
+|-------------|-------------|-------------|
+| 🛒 [**Grocerin – Full-Stack Grocery Platform**](https://github.com/Satyam6201/Grocerin) | JWT Auth, Stripe Payments, Real-Time Seller Dashboard | MERN, TailwindCSS, Stripe |
+| 🛍️ [**Amazon Clone**](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with search, wishlist, cart | React.js, API, CSS |
+| ⏰ [**Digital Clock Web App**](https://github.com/Satyam6201/Digital-Clock-App) | Timezones + Weather + Alarm + Stopwatch | React.js, API, CSS |
+| 🎮 [**Memory Card Game**](https://github.com/Satyam6201/Memory-Card-Game) | Interactive card-matching game | React.js |
+| ❓ [**Quiz App**](https://github.com/Satyam6201/Quiz-App) | API-based quiz system | React.js, JavaScript |
+
+🧩 Check out more on my [**Portfolio → satyam-devfolio.vercel.app**](https://satyam-devfolio.vercel.app)
 
 ---
 
