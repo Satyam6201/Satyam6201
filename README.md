@@ -51,7 +51,7 @@
 - 🎓 B.Tech student | Full-Stack enthusiast  
 - 🌱 Currently learning: **Next.js, GraphQL, Cloud Deployments**  
 - 💡 Exploring: AI-powered tools, 3D apps, SaaS dashboards  
-- 🧠 Problem-Solving: **700+ DSA problems** (LeetCode + GFG)  
+- 🧠 Problem-Solving: **750+ DSA problems** (LeetCode + GFG)  
 - 🛠 Tools: `VSCode`, `Postman`, `GitHub`, `Figma`, `Canva`  
 - 🎯 Open to: **Internships, Freelancing, Hackathons, Collaborations**  
 
