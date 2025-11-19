@@ -1,63 +1,23 @@
-<h1 align="center">✨ Welcome to My GitHub World ✨</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 React.js Wizard | 🛠️ Builder of Modern Web Experiences</h3>
-
----
-
-## 🎮 Developer Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-darkgreen?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
-</p>
-
----
-
-<!-- ## 🖼️ 3D Developer Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" alt="Coding Banner"/>
-</p>
-
-
----
-
-## ⚡ Quick Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyam6201&label=Profile+Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/satyam6201?label=Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-## 🔗 Connect with Me  
+<h1 align="center">✨ Satyam Kumar Mishra ✨</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | Cloud & Scalable Systems | Problem Solver (750+ DSA)</h3>
 
 <p align="center">
-  <a href="mailto:satyamkmishraa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50px" /></a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a>
-  <a href="https://twitter.com/satyamkmishraa"><img src="https://skillicons.dev/icons?i=twitter" width="50px" /></a>
-  <a href="https://leetcode.com/satyammishra62"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50px" /></a>
-  <a href="https://instagram.com/satyammishra_467"><img src="https://skillicons.dev/icons?i=instagram" width="50px" /></a>
-  <a href="https://discord.gg/satyamkumarmishra"><img src="https://skillicons.dev/icons?i=discord" width="50px" /></a>
-  <a href="https://satyam-devfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="50px" /></a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 B.Tech student | Full-Stack enthusiast  
-- 🌱 Currently learning: **Next.js, GraphQL, Cloud Deployments**  
-- 💡 Exploring: AI-powered tools, 3D apps, SaaS dashboards  
-- 🧠 Problem-Solving: **750+ DSA problems** (LeetCode)  
-- 🛠 Tools: `VSCode`, `Postman`, `GitHub`, `Figma`, `Canva`  
-- 🎯 Open to: **Internships, Freelancing, Hackathons, Collaborations**  
+- 🎓 B.Tech CSE | Full-Stack & Cloud Enthusiast  
+- 💻 Passionate about building **scalable web apps**, **authentication systems**, **cloud deployments**, and **real-world projects**  
+- 🔥 Solved **750+ DSA problems** (LeetCode)  
+- 🌩 Deploying apps on **AWS, Vercel, Netlify**  
+- 🧠 Exploring: **Next.js, GraphQL, System Design, AI Integrations**  
+- 🤝 Open to: **Internships | Remote Work | Freelancing | Open Source**
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,java,cpp,python,git,github,vscode,postman,vercel,netlify,figma,docker,aws" />
@@ -65,91 +25,85 @@
 
 ---
 
-## 🛤️ My Developer Journey
+## 🏆 Highlights & Achievements
 
-📌 **2022** – Started with HTML, CSS, JS  
-📌 **2023** – Built 10+ projects with React & Firebase  
-📌 **2024** – Learned MERN stack, JWT, GraphQL  
-📌 **2025** – Exploring AI apps, 3D product showcases, open source  
-
----
-
-## 🚀 Featured Projects
-
-| 🚀 Project | Description | Tech Stack |
-|-------------|-------------|-------------|
-| 🛒 [**Grocerin – Full-Stack Grocery Platform**](https://github.com/Satyam6201/Grocerin) | JWT Auth, Stripe Payments, Real-Time Seller Dashboard | MERN, TailwindCSS, Stripe |
-| 🛍️ [**Amazon Clone**](https://github.com/Satyam6201/Amazon-Clone---React.js) | E-Commerce UI with search, wishlist, cart | React.js, API, CSS |
-| ⏰ [**Digital Clock Web App**](https://github.com/Satyam6201/Digital-Clock-App) | Timezones + Weather + Alarm + Stopwatch | React.js, API, CSS |
-| 🎮 [**Memory Card Game**](https://github.com/Satyam6201/Memory-Card-Game) | Interactive card-matching game | React.js |
-| ❓ [**Quiz App**](https://github.com/Satyam6201/Quiz-App) | API-based quiz system | React.js, JavaScript |
-
-🧩 Check out more on my [**Portfolio → satyam-devfolio.vercel.app**](https://satyam-devfolio.vercel.app)
+- 🌟 Intern at **Bluestock FinTech** – Building full-stack financial dashboard systems  
+- 💡 Built & deployed **35+ real-world MERN projects**  
+- 🏅 LeetCode streaks: **200+ days**, 750+ problems solved  
+- 💬 Mentored **250+ students** in MERN & DSA  
+- 🧪 Conducted Workshops: **React, Python, C++, Web Development**  
+- 🚀 Active in hackathons & open-source contributions  
+- 🧠 Strong focus on **performance, optimization & clean architecture**
 
 ---
 
-## 🏆 Achievements & Community Work
+## ⭐ Featured Projects
 
-- 💬 Mentored **250+ students** in MERN stack & DSA  
-- 👨‍🏫 Conducted **workshops** (Web Dev, Python, C++)  
-- 🌐 Participated in **Hackathons & Open Source**  
-- 🏅 Certifications: *MERN Stack*, *Java Programming*, *Community Contributor*  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 **Grocerin Full-Stack Platform** | JWT Auth, Seller Dashboard, Real-Time Cart, Stripe Payments | MERN + Tailwind + Stripe |
+| 🛍️ **Amazon Clone** | Wishlist, Cart, Product Filters, Custom Search Bar | React + API + CSS |
+| ⏰ **Digital Clock Web App** | Timezones, Weather API, Alarm, Stopwatch | React + API |
+| 🎮 **Memory Card Game** | Interactive game with scoring system | React.js |
+| ❓ **Quiz App** | API-based questions, scoring, progress tracking | React + JS |
+
+🔗 **Portfolio:** https://satyam-devfolio.vercel.app  
+🔗 **All Projects:** Check my GitHub Repositories
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🌍 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam6201&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam6201&layout=compact&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam6201&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam6201&theme=darkhub&margin-w=15&row=1&column=6" />
+  <a href="mailto:satyamkmishraa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50px" /></a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a>
+  <a href="https://leetcode.com/satyammishra62"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50px" /></a>
+  <a href="https://instagram.com/satyammishra_467"><img src="https://skillicons.dev/icons?i=instagram" width="50px" /></a>
+  <a href="https://satyam-devfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="50px" /></a>
 </p>
 
 ---
 
-## 📊 LeetCode & Coding Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SatyamMishra62?theme=dark&ext=contest" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&theme=radical&show_icons=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=radical" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=radical" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💡 Current Learning Roadmap (2025)
+
+- 📌 **Advanced MERN + Microservices**
+- 📌 **Next.js App Router & Server Actions**
+- 📌 **Cloud (AWS Lambda, S3, EC2, Deployments)**
+- 📌 **System Design Fundamentals**
+- 📌 **Open Source Contributions**
+- 📌 **AI + Web Integration**
+
+---
+
+## 🏅 Coding Profile Badges
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://leetcard.jacoblin.cool/SatyamMishra62?theme=dark&ext=heatmap" />
 </p>
 
 ---
 
-## ✨ Fun Zone
+## ❤️ Support My Work
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Dev Joke" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 📊 GitHub Activity Graph 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam6201&theme=react-dark)](https://github.com/satyam6201) 
-
----
-
-## ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/satyam6201"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
 </p>
 
 ---
 
-<div align="center">
-  🛠️ Made with ❤️ by <b>Satyam Kumar Mishra</b> | 💬 Always up for collaboration! 🚀
-</div>
+<h3 align="center">✨ Built with passion by <b>Satyam Kumar Mishra</b> ✨  
+Let's build something amazing together! 🚀</h3>
+
