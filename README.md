@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE | Full-Stack & Cloud Enthusiast  
 - 💻 Passionate about building **scalable web apps**, **authentication systems**, **cloud deployments**, and **real-world projects**  
-- 🔥 Solved **750+ DSA problems** (LeetCode)  
+- 🔥 Solved **780+ DSA problems** (LeetCode)  
 - 🌩 Deploying apps on **AWS, Vercel, Netlify**  
 - 🧠 Exploring: **Next.js, GraphQL, System Design, AI Integrations**  
 - 🤝 Open to: **Internships | Remote Work | Freelancing | Open Source**
