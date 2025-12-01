@@ -29,7 +29,7 @@
 
 - 🌟 Intern at **Bluestock FinTech** – Building full-stack financial dashboard systems  
 - 💡 Built & deployed **35+ real-world MERN projects**  
-- 🏅 LeetCode streaks: **200+ days**, 750+ problems solved  
+- 🏅 LeetCode streaks: **200+ days**, 780+ problems solved  
 - 💬 Mentored **250+ students** in MERN & DSA  
 - 🧪 Conducted Workshops: **React, Python, C++, Web Development**  
 - 🚀 Active in hackathons & open-source contributions  
