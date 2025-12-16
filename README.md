@@ -1,5 +1,5 @@
 <h1 align="center">✨ Satyam Kumar Mishra ✨</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Cloud & Scalable Systems | Problem Solver (750+ DSA)</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN | Cloud & Scalable Systems | Problem Solver (800+ DSA)</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE | Full-Stack & Cloud Enthusiast  
 - 💻 Passionate about building **scalable web apps**, **authentication systems**, **cloud deployments**, and **real-world projects**  
-- 🔥 Solved **780+ DSA problems** (LeetCode)  
+- 🔥 Solved **800+ DSA problems** (LeetCode)  
 - 🌩 Deploying apps on **AWS, Vercel, Netlify**  
 - 🧠 Exploring: **Next.js, GraphQL, System Design, AI Integrations**  
 - 🤝 Open to: **Internships | Remote Work | Freelancing | Open Source**
@@ -29,7 +29,7 @@
 
 - 🌟 Intern at **Bluestock FinTech** – Building full-stack financial dashboard systems  
 - 💡 Built & deployed **35+ real-world MERN projects**  
-- 🏅 LeetCode streaks: **200+ days**, 780+ problems solved  
+- 🏅 LeetCode streaks: **200+ days**, 800+ problems solved  
 - 💬 Mentored **250+ students** in MERN & DSA  
 - 🧪 Conducted Workshops: **React, Python, C++, Web Development**  
 - 🚀 Active in hackathons & open-source contributions  
