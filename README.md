@@ -69,11 +69,11 @@ I am a **Software Engineer and Full-Stack Developer** specializing in the **MERN
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
+| **DentAIva** | **AI Voice Dental Assistant** with 24/7 patient support, automated 3-step booking, and automated invoicing system. | **Next.js 15, Prisma, PostgreSQL (Neon), Vapi AI, Resend, Clerk** |
 | **Connectify** | Real-time chat & video calling platform with JWT auth and presence system | React, Node, MongoDB, Stream API |
 | **Grocerin** | Full-stack e-commerce platform with seller dashboard & Stripe payments | MERN, Redux Toolkit, Stripe |
 | **Amazon Clone** | Product search, cart, wishlist & filters | React, API, CSS |
 | **Digital Clock App** | Time zones, weather, alarm, stopwatch | React, API |
-| **Quiz App** | Dynamic quiz system with score tracking | React, JavaScript |
 
 🔗 **Portfolio:** https://satyam-devfolio.vercel.app  
 🔗 **All projects available on GitHub repositories**
