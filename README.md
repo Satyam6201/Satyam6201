@@ -8,7 +8,7 @@ Software Engineer | Full-Stack Developer (MERN) | Cloud & Scalable Systems
   <a href="mailto:satyamkmishraa@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev">LinkedIn</a> •
   <a href="https://github.com/Satyam6201">GitHub</a> •
-  <a href="https://leetcode.com/satyammishra62">LeetCode</a> •
+  <a href="https://leetcode.com/u/SatyamMIshra62">LeetCode</a> •
   <a href="https://satyam-devfolio.vercel.app">Portfolio</a>
 </p>
 
