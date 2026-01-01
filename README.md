@@ -127,7 +127,7 @@ I am a **Software Engineer and Full-Stack Developer** specializing in the **MERN
 <p align="center">
   <a href="mailto:satyamkmishraa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://leetcode.com/satyammishra62"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/></a>
+  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/></a>
   <a href="https://satyam-devfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
 </p>
 
