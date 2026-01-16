@@ -1,123 +1,137 @@
-<h1 align="center">Satyam Kumar Mishra</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" />
+</p>
 
 <h3 align="center">
-Software Engineer | Full-Stack Developer (MERN) | Cloud & Scalable Systems
+Frontend Developer | Full-Stack Developer (MERN) | Entry-Level Software Engineer
 </h3>
 
 <p align="center">
   <a href="mailto:satyamkmishraa@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/">LinkedIn</a> •
   <a href="https://github.com/Satyam6201">GitHub</a> •
   <a href="https://leetcode.com/u/SatyamMIshra62">LeetCode</a> •
   <a href="https://satyam-devfolio.vercel.app">Portfolio</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" />
-</p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Software Engineer and Full-Stack Developer** specializing in the **MERN stack**, with a strong focus on  
-**scalable backend systems, clean architecture, and performance optimization**.
+I am a **Frontend & Full-Stack Developer (Fresher)** with strong foundations in  
+**Data Structures, Algorithms, and Object-Oriented Programming**.
 
-- 🎓 B.Tech in Computer Science & Engineering  
-- 💼 Full-Stack Development Intern at **Bluestock FinTech**  
-- 🧠 Solved **800+ DSA problems** on LeetCode (200+ day streak)  
-- ☁️ Deployed production applications on **AWS, Vercel, Netlify**  
-- 🛠 Passionate about **secure systems, real-time apps, and cloud-native solutions**
+I enjoy building **clean, responsive user interfaces**, scalable backend APIs, and real-world web applications using **modern JavaScript technologies**.
 
-**Currently seeking:**  
-`Software Engineer (SDE) | Full-Stack Developer | Backend Roles | Internships`
+- 🎓 B.Tech in Computer Science & Engineering (2026)
+- 💼 Full-Stack Development Intern at **Bluestock FinTech**
+- 🧠 Solved **800+ DSA problems** on LeetCode (200+ day streak)
+- 🌐 Built & deployed **35+ web applications**
+- ☁️ Experience deploying apps on **Vercel, Netlify & AWS (Basics)**
+
+**Actively seeking:**  
+`Frontend Developer | Full-Stack Developer | Junior Software Engineer (Fresher)`
 
 ---
 
-## 🧠 Technical Expertise
+## 🧠 Core Skills
 
-- Full-Stack Development (MERN, REST APIs)
-- Authentication & Authorization (JWT, OAuth 2.0)
-- Backend Optimization & Database Indexing
-- State Management & Performance Tuning
-- Cloud Deployment & DevOps Fundamentals
-- Data Structures, Algorithms & Problem Solving
+- Frontend Development (React, Next.js, Tailwind CSS)
+- Full-Stack Web Development (MERN)
+- REST API Design & Integration
+- Authentication & Authorization (JWT, OAuth Basics)
+- State Management & Performance Optimization
+- Responsive UI / UX Development
+- Data Structures & Algorithms
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,java,cpp,git,github,postman,vercel,netlify,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,java,cpp,git,github,postman,vercel,netlify,docker,aws" />
 </p>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### **Bluestock FinTech** — Full-Stack Development Intern  
 **Oct 2025 – Dec 2025**
 
-- Developed **financial dashboards** using MERN to visualize real-time market data  
+- Built **financial dashboards** using MERN stack to visualize real-time data  
 - Improved backend performance by **30%** through MongoDB indexing & query optimization  
-- Collaborated in **Agile/Scrum** using Git Flow and peer code reviews  
-- Built responsive, data-heavy UI components using **Chart.js & Tailwind CSS**
+- Worked in **Agile/Scrum environment** with Git Flow and peer code reviews  
+- Developed responsive UI components using **React, Chart.js & Tailwind CSS**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|-------|-------------|------------|
-| **DentAIva** | **AI Voice Dental Assistant** with 24/7 patient support, automated 3-step booking, and automated invoicing system. | **Next.js 15, Prisma, PostgreSQL (Neon), Vapi AI, Resend, Clerk** |
-| **Connectify** | Real-time chat & video calling platform with JWT auth and presence system | React, Node, MongoDB, Stream API |
-| **Grocerin** | Full-stack e-commerce platform with seller dashboard & Stripe payments | MERN, Redux Toolkit, Stripe |
-| **Amazon Clone** | Product search, cart, wishlist & filters | React, API, CSS |
-| **Digital Clock App** | Time zones, weather, alarm, stopwatch | React, API |
-
-🔗 **Portfolio:** https://satyam-devfolio.vercel.app  
-🔗 **All projects available on GitHub repositories**
+### **DentAIva – AI-Powered SaaS Platform**
+**Tech:** Next.js, PostgreSQL, Prisma, Clerk, Vapi AI, Resend, Tailwind, Shadcn UI  
+- Built a full-stack healthcare SaaS application  
+- Implemented authentication, subscriptions & role-based access  
+- Integrated AI voice assistant for appointment handling  
+- Focused on performance optimization & secure data handling  
 
 ---
 
-## 🏆 Achievements & Leadership
+### **Connectify – Real-Time Chat Application**
+**Tech:** React, Node.js, Express, MongoDB, JWT, Stream API, Tailwind CSS  
+- Developed real-time chat & video calling features  
+- Implemented JWT authentication & friend management  
+- Optimized state management to improve UI performance  
+
+---
+
+### **Grocerin – E-Commerce Platform**
+**Tech:** React, Node.js, Express, MongoDB, Stripe API, Redux Toolkit  
+- Built shopping cart & Stripe payment flow  
+- Designed REST APIs for products, users & orders  
+- Implemented secure backend logic and responsive frontend UI  
+
+---
+
+## 🏆 Achievements
 
 - 🥇 Solved **800+ DSA problems** on LeetCode  
-- 🔥 Maintained **200+ day coding streak**  
-- 🚀 Built & deployed **35+ real-world applications**  
-- 👨‍🏫 Mentored **250+ students** in Web Development & DSA  
-- 🧑‍💻 Conducted workshops on **React, Python, C++, Web Development**
+- 🔥 Maintained **200+ day coding streak**
+- 🚀 Built & deployed **35+ projects**
+- 👨‍🏫 Conducted coding workshops for **250+ students**
+- 🧑‍💻 Mentored juniors in Web Development & DSA
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Learning & Growth (2025)
+## 📈 Learning & Growth
 
-- Advanced MERN & Microservices Architecture  
-- Next.js App Router & Server Actions  
-- System Design for Scalable Applications  
-- AWS (EC2, S3, Lambda, CI/CD Pipelines)  
-- Open Source Contributions  
-- AI + Web Integrations  
+- Advanced React & Next.js (App Router)
+- Full-Stack System Design (Basics)
+- Backend Optimization Techniques
+- Cloud Fundamentals (AWS EC2, S3)
+- CI/CD Basics
+- AI + Web Integrations
 
 ---
 
 ## 🧠 Coding Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SatyamMishra62?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SatyamMIshra62?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
@@ -125,15 +139,20 @@ I am a **Software Engineer and Full-Stack Developer** specializing in the **MERN
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:satyamkmishraa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/></a>
-  <a href="https://satyam-devfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
+  <a href="mailto:satyamkmishraa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://satyam-devfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <b>Built with passion by Satyam Kumar Mishra</b><br/>
-  <i>Let’s build scalable and impactful software together.</i>
+  <i>Let’s build clean, scalable, and impactful web applications.</i>
 </p>
