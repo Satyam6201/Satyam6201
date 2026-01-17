@@ -14,7 +14,6 @@ Frontend Developer | Full-Stack Developer (MERN) | Entry-Level Software Engineer
   <a href="https://satyam-devfolio.vercel.app">Portfolio</a>
 </p>
 
-
 ---
 
 ## 👋 About Me
