@@ -8,7 +8,7 @@ Frontend Developer | Full-Stack Developer (MERN) | Entry-Level Software Engineer
 
 <p align="center">
   <a href="mailto:satyamkmishraa@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/">LinkedIn</a> •
   <a href="https://github.com/Satyam6201">GitHub</a> •
   <a href="https://leetcode.com/u/SatyamMIshra62">LeetCode</a> •
   <a href="https://satyam-devfolio.vercel.app">Portfolio</a>
@@ -141,7 +141,7 @@ I enjoy building **clean, responsive user interfaces**, scalable backend APIs, a
   <a href="mailto:satyamkmishraa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/">
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://satyam-devfolio.vercel.app">
