@@ -1,157 +1,178 @@
+<!-- ================= HEADER BANNER ================= -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Satyam%20Kumar%20Mishra&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-Frontend Developer | Full-Stack Developer (MERN) | Entry-Level Software Engineer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Junior+Software+Engineer;React+%7C+Node+%7C+MongoDB+Specialist" />
+</p>
 
 <p align="center">
-  <a href="mailto:satyamkmishraa@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/">LinkedIn</a> •
-  <a href="https://github.com/Satyam6201">GitHub</a> •
-  <a href="https://leetcode.com/u/SatyamMIshra62">LeetCode</a> •
-  <a href="https://satyam-devfolio.vercel.app">Portfolio</a>
+  <a href="mailto:satyamkmishraa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Satyam6201"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://satyam-devfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam6201&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **Frontend & Full-Stack Developer (Fresher)** with strong foundations in  
-**Data Structures, Algorithms, and Object-Oriented Programming**.
+```diff
++ Full Stack MERN Developer | React.js Specialist | API Developer
+```
 
-I enjoy building **clean, responsive user interfaces**, scalable backend APIs, and real-world web applications using **modern JavaScript technologies**.
+I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passionate about building scalable web applications and modern UI experiences.
 
-- 🎓 B.Tech in Computer Science & Engineering (2026)
-- 💼 Full-Stack Development Intern at **Bluestock FinTech**
-- 🧠 Solved **800+ DSA problems** on LeetCode (200+ day streak)
-- 🌐 Built & deployed **35+ web applications**
-- ☁️ Experience deploying apps on **Vercel, Netlify & AWS (Basics)**
+- 💼 Full-Stack Development Intern  
+- 🧠 Strong in **Data Structures & Algorithms**
+- 🌐 Built & deployed **35+ production projects**
+- 🔥 800+ LeetCode Problems Solved
+- ☁️ Deployments: Vercel, Netlify, Render (Cloud Basics)
 
-**Actively seeking:**  
-`Frontend Developer | Full-Stack Developer | Junior Software Engineer (Fresher)`
-
----
-
-## 🧠 Core Skills
-
-- Frontend Development (React, Next.js, Tailwind CSS)
-- Full-Stack Web Development (MERN)
-- REST API Design & Integration
-- Authentication & Authorization (JWT, OAuth Basics)
-- State Management & Performance Optimization
-- Responsive UI / UX Development
-- Data Structures & Algorithms
+🎯 **Actively seeking:**  
+`MERN Stack Developer | Full Stack Developer | Software Engineer (Fresher)`
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,java,cpp,git,github,postman,vercel,netlify,docker,aws" />
+### 🧩 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
+</p>
+
+### 🧠 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp" />
+</p>
+
+### 🛠 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,aws" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### **Bluestock FinTech** — Full-Stack Development Intern  
-**Oct 2025 – Dec 2025**
+### 🏢 Full-Stack Development Intern
+**Bluestock FinTech | 2025**
 
-- Built **financial dashboards** using MERN stack to visualize real-time data  
-- Improved backend performance by **30%** through MongoDB indexing & query optimization  
-- Worked in **Agile/Scrum environment** with Git Flow and peer code reviews  
-- Developed responsive UI components using **React, Chart.js & Tailwind CSS**
-
----
-
-## 🚀 Projects
-
-### **DentAIva – AI-Powered SaaS Platform**
-**Tech:** Next.js, PostgreSQL, Prisma, Clerk, Vapi AI, Resend, Tailwind, Shadcn UI  
-- Built a full-stack healthcare SaaS application  
-- Implemented authentication, subscriptions & role-based access  
-- Integrated AI voice assistant for appointment handling  
-- Focused on performance optimization & secure data handling  
+- Developed real-time financial dashboards using MERN stack
+- Optimized backend queries and improved performance
+- Implemented responsive UI using React & Tailwind
+- Worked in Agile/Scrum with Git workflow & code reviews
 
 ---
 
-### **Connectify – Real-Time Chat Application**
-**Tech:** React, Node.js, Express, MongoDB, JWT, Stream API, Tailwind CSS  
-- Developed real-time chat & video calling features  
-- Implemented JWT authentication & friend management  
-- Optimized state management to improve UI performance  
+## 🧠 Core Competencies
+
+- REST API Development
+- Authentication & Authorization (JWT)
+- Role-Based Access Control
+- State Management (Redux/Context API)
+- Responsive UI & Performance Optimization
+- CRUD Applications
+- API Integration
 
 ---
 
-### **Grocerin – E-Commerce Platform**
-**Tech:** React, Node.js, Express, MongoDB, Stripe API, Redux Toolkit  
-- Built shopping cart & Stripe payment flow  
-- Designed REST APIs for products, users & orders  
-- Implemented secure backend logic and responsive frontend UI  
+## 🚀 Featured Projects
+
+### 🧠 DentAIva — AI SaaS Platform
+- Secure authentication & subscriptions
+- AI voice appointment assistant
+- Role-based access
+- Scalable architecture
+
+### 💬 Connectify — Real-Time Chat App
+- Real-time messaging
+- Video calling
+- JWT authentication
+- Friend management
+
+### 🛒 Grocerin — E-Commerce Platform
+- Shopping cart
+- Stripe payment integration
+- Product & order APIs
+- Redux Toolkit state management
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Solved **800+ DSA problems** on LeetCode  
-- 🔥 Maintained **200+ day coding streak**
-- 🚀 Built & deployed **35+ projects**
-- 👨‍🏫 Conducted coding workshops for **250+ students**
-- 🧑‍💻 Mentored juniors in Web Development & DSA
+- 800+ DSA problems solved
+- 200+ day coding streak
+- 35+ deployed web apps
+- Conducted workshops for 250+ students
+- Mentored juniors in Web Development & DSA
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Learning & Growth
+## 📈 Contribution Graph
 
-- Advanced React & Next.js (App Router)
-- Full-Stack System Design (Basics)
-- Backend Optimization Techniques
-- Cloud Fundamentals (AWS EC2, S3)
-- CI/CD Basics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam6201&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Next.js (App Router)
+- Backend Performance Optimization
+- System Design Basics
+- AWS Cloud Fundamentals
+- CI/CD Pipelines
 - AI + Web Integrations
 
 ---
 
-## 🧠 Coding Activity
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SatyamMIshra62?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:satyamkmishraa@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="https://satyam-devfolio.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Built with passion by Satyam Kumar Mishra</b><br/>
-  <i>Let’s build clean, scalable, and impactful web applications.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
 </p>
