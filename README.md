@@ -68,12 +68,13 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 ## 💼 Experience
 
 ### 🏢 Full-Stack Development Intern
-**Bluestock FinTech | 2025**
+**Software Beatz | 2025**
 
-- Developed real-time financial dashboards using MERN stack
-- Optimized backend queries and improved performance
-- Implemented responsive UI using React & Tailwind
-- Worked in Agile/Scrum with Git workflow & code reviews
+- Developed full-stack web modules using React.js, Node.js, Express.js, and MongoDB
+- Created RESTful APIs and handled database CRUD operations
+- Implemented JWT-based authentication and protected routes
+- Debugged backend errors and improved application stability
+- Collaborated using Git version control and pull request workflow
 
 ---
 
