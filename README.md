@@ -1,4 +1,4 @@
-<!-- ================= HEADER BANNER ================= -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Satyam%20Kumar%20Mishra&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
