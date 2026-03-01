@@ -1,24 +1,32 @@
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Satyam%20Kumar%20Mishra&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22c55e&height=250&section=header&text=Satyam%20Kumar%20Mishra&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
+<!-- ANIMATED ROLE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Junior+Software+Engineer;React+%7C+Node+%7C+MongoDB+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Backend+Focused+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+To+Opportunities+2026" />
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="mailto:satyamkmishraa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Satyam6201"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://satyam-devfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
+  <a href="mailto:satyamkmishraa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Satyam6201">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/SatyamMIshra62">
+    <img src="https://img.shields.io/badge/LeetCode-800+Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyam6201&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/216656968-2e78e6a0-4b7f-4d57-bf7e-89b18d6a45d0.gif" width="100%"/>
 
----
 
 ## 👨‍💻 About Me
 
