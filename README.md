@@ -1,9 +1,7 @@
-<!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22c55e&height=250&section=header&text=Satyam%20Kumar%20Mishra&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<!-- ANIMATED ROLE TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Backend+Focused+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+To+Opportunities+2026" />
 </p>
