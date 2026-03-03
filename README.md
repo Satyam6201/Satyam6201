@@ -149,12 +149,33 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam6201&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam6201&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam6201&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyam6201&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 🎮 GitHub Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satyam6201/Satyam6201/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -163,6 +184,22 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam6201&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam6201&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
