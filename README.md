@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22c55e&height=250&section=header&text=Satyam%20Kumar%20Mishra&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:2563eb,100:22c55e&height=220&section=header&text=Building%20Scalable%20Web%20Applications&fontSize=38&fontAlignY=40&desc=SaaS%20%7C%20E-Commerce%20%7C%20Modern%20Web%20Architecture&descAlignY=70&descAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -49,22 +49,42 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 ### 🧩 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite,webpack" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis,firebase,prisma,supabase,graphql" />
+</p>
+
+### 🔐 Authentication & Security
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### 🧠 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>
 
 ### 🛠 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,kubernetes,vercel,netlify,aws,nginx,linux" />
+</p>
+
+### 🧪 Testing
+<p>
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress" />
+</p>
+
+### 📊 APIs & Integrations
+<p>
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+<img src="https://skillicons.dev/icons?i=sequelize,prisma,mongoose" />
 </p>
 
 ---
