@@ -147,12 +147,6 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
@@ -166,32 +160,12 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam6201&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam6201&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 🎮 GitHub Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satyam6201/Satyam6201/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam6201&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -227,14 +201,4 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
   <a href="https://satyam-devfolio.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
 </p>
