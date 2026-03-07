@@ -54,7 +54,7 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,redis,firebase,prisma,supabase,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,prisma" />
 </p>
 
 ### 🔐 Authentication & Security
@@ -69,7 +69,7 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 ### 🛠 Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,kubernetes,vercel,netlify,aws,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,kubernetes,vercel,netlify,aws" />
 </p>
 
 ### 🧪 Testing
@@ -84,7 +84,7 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 ### 🗄️ Databases & ORM
 <p>
-<img src="https://skillicons.dev/icons?i=sequelize,prisma,mongoose" />
+<img src="https://skillicons.dev/icons?i=sequelize,prisma" />
 </p>
 
 ---
