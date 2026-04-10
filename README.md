@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:2563eb,100:22c55e&height=220&section=header&text=Building%20Scalable%20Web%20Applications&fontSize=38&fontAlignY=40&desc=SaaS%20%7C%20E-Commerce%20%7C%20Modern%20Web%20Architecture&descAlignY=70&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=260&section=header&text=Satyam%20Kumar%20Mishra&fontSize=42&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20(OpenAI)%20%7C%20Backend%20Focused&descAlignY=65&descAlign=50&fontColor=ffffff" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Backend+Focused+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+To+Opportunities+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);Backend+Focused+Node.js+Developer;Generative+AI+%7C+OpenAI+Integration;Building+Scalable+Web+Applications;SaaS+%7C+E-Commerce+%7C+AI+Apps;Open+To+Opportunities+2026" />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -22,8 +23,8 @@
   </a>
 </p>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/216656968-2e78e6a0-4b7f-4d57-bf7e-89b18d6a45d0.gif" width="100%"/>
+
 
 
 ## 👨‍💻 About Me
