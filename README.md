@@ -37,8 +37,8 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 - 💼 Full-Stack Development Intern  
 - 🧠 Strong in **Data Structures & Algorithms**
-- 🌐 Built & deployed **35+ production projects**
-- 🔥 800+ LeetCode Problems Solved
+- 🌐 Built & deployed **45+ production projects**
+- 🔥 900+ LeetCode Problems Solved
 - ☁️ Deployments: Vercel, Netlify, Render (Cloud Basics)
 
 🎯 **Actively seeking:**  
@@ -139,9 +139,9 @@ I am a **Computer Science Engineer (2026)** and a **Full Stack Developer** passi
 
 ## 🏆 Achievements
 
-- 800+ DSA problems solved
+- 900+ DSA problems solved
 - 200+ day coding streak
-- 35+ deployed web apps
+- 45+ deployed web apps
 - Conducted workshops for 250+ students
 - Mentored juniors in Web Development & DSA
 
