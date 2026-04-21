@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/SatyamMIshra62">
-    <img src="https://img.shields.io/badge/LeetCode-800+Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-900+Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 </p>
 
