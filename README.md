@@ -127,7 +127,7 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 - Scalable PostgreSQL/Prisma database architecture
 
 ### 💬 [Connectify — Real-Time Chat App](https://github.com/Satyam6201/connectify) 
-`React.js` `Node.js` `Socket.io` `JWT`
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Zustand` `JWT` 
 - Real-time messaging & video calling
 - JWT authentication and friend management system
 
