@@ -126,7 +126,7 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 - Secure authentication with Clerk and Role-Based Access Control
 - Scalable PostgreSQL/Prisma database architecture
 
-### 💬 [Connectify — Real-Time Chat App](github.com/Satyam6201/connectify) 
+### 💬 [Connectify — Real-Time Chat App](https://github.com/Satyam6201/connectify) 
 `React.js` `Node.js` `Socket.io` `JWT`
 - Real-time messaging & video calling
 - JWT authentication and friend management system
@@ -145,7 +145,7 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 
 - 🥇 Winner — Innovative Project Award, College Tech Expo 2025
 - 🧩 900+ DSA problems solved on LeetCode (Java)
-- 🔥 200+ day coding streak
+- 🔥 350+ day coding streak
 - 🚀 45+ deployed full-stack web applications
 - 🎓 Conducted Web Development & Java workshops for 250+ students
 - 📜 Certifications: Full Stack Development Internship (Code Innovative Technologies) · Software Development Internship (Software Beatz) · Java Programming Masterclass (Apna College) · Web Development Certification (Apna College)
