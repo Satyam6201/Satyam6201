@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:2563eb,70:22c55e,100:0f172a&height=280&section=header&text=Satyam%20Kumar%20Mishra&fontSize=46&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN+%2B+Next.js);Backend-Focused+Node.js+%2F+Express+Engineer;Generative+AI+%7C+OpenAI+%26+Voice+AI+Integration;900%2B+DSA+Problems+Solved+on+LeetCode;Building+Scalable+SaaS+%2B+E-Commerce+Apps;Open+To+Full-Time+Opportunities+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN+%2B+Next.js);Backend-Focused+Node.js+%2F+Express+Engineer;Generative+AI+%7C+OpenAI+%26+Voice+AI+Integration;1000%2B+DSA+Problems+Solved+on+LeetCode;Building+Scalable+SaaS+%2B+E-Commerce+Apps;Open+To+Full-Time+Opportunities+2026" />
 
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/Satyam6201/readme&style=for-the-badge" />
@@ -32,7 +32,7 @@
 I'm a **Computer Science Engineer (2026)** building secure, scalable, production-ready web applications with modern JS frameworks and Generative AI.
 
 - 💼 2x Full-Stack Development Intern (Code Innovative Technologies, Software Beatz)
-- 🧠 Strong in **Data Structures & Algorithms** — 900+ LeetCode problems in Java
+- 🧠 Strong in **Data Structures & Algorithms** — 1000+ LeetCode problems in Java
 - 🌐 Designed & deployed **45+ production projects**
 - 🤖 Hands-on with **OpenAI API, LLM integration, AI voice assistants (Vapi AI), and prompt engineering**
 - 🏆 Winner — Innovative Project Award, College Tech Expo 2025
@@ -144,8 +144,8 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 ## 🏆 Achievements & Certifications
 
 - 🥇 Winner — Innovative Project Award, College Tech Expo 2025
-- 🧩 900+ DSA problems solved on LeetCode (Java)
-- 🔥 350+ day coding streak
+- 🧩 1000+ DSA problems solved on LeetCode (Java)
+- 🔥 400+ day coding streak
 - 🚀 45+ deployed full-stack web applications
 - 🎓 Conducted Web Development & Java workshops for 250+ students
 - 📜 Certifications: Full Stack Development Internship (Code Innovative Technologies) · Software Development Internship (Software Beatz) · Java Programming Masterclass (Apna College) · Web Development Certification (Apna College)
