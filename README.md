@@ -137,7 +137,7 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 - Admin and Seller dashboards with JWT auth & role-based access
 - Cloudinary-powered image/media management
 
-> 📌 45+ additional projects deployed — check the pinned repos below!
+> 📌 45+ additional projects deployed — [GitHub](https://github.com/Satyam6201)  
 
 ---
 
