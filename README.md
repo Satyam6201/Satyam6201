@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 ```diff
-+ Full Stack Developer (MERN + Next.js) | Generative AI Engineer | 900+ DSA Problems Solved
++ Full Stack Developer (MERN + Next.js) | Generative AI Engineer | 1000+ DSA Problems Solved
 ```
 
 I'm a **Computer Science Engineer (2026)** building secure, scalable, production-ready web applications with modern JS frameworks and Generative AI.
