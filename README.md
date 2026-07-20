@@ -15,7 +15,7 @@
   <a href="mailto:satyamkmishraa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/satyam-kumar-mishra-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Satyam6201"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.shields.io/badge/LeetCode-900%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://leetcode.com/u/SatyamMIshra62"><img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://satyam-devfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
