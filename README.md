@@ -52,7 +52,7 @@ I'm a **Computer Science Engineer (2026)** building secure, scalable, production
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,prisma,redis,kafka" />
 </p>
 
 ### 🤖 Generative AI
