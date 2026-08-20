@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:2563eb,70:22c55e,100:0f172a&height=280&section=header&text=Satyam%20Kumar%20Mishra&fontSize=46&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
