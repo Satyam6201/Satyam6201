@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:2563eb,70:22c55e,100:0f172a&height=280&section=header&text=Satyam%20Kumar%20Mishra&fontSize=46&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN+%2B+Next.js);Backend-Focused+Node.js+%2F+Express+Engineer;Generative+AI+Engineer+%7C+OpenAI+%2C+LangChain+%26+LangGraph;Voice+AI+Integration+with+Vapi+AI;1000%2B+DSA+Problems+Solved+on+LeetCode;45%2B+Production+Projects+Deployed;Open+To+Full-Time+Opportunities+2026" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f5536253-8a2f-47bd-bd1f-8af28113dd36" />
 
 <br/>
 
@@ -23,7 +21,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656968-2e78e6a0-4b7f-4d57-bf7e-89b18d6a45d0.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -229,28 +227,7 @@ I'm a **Computer Science Engineer (B.Tech, 2022–2026)** building secure, scala
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam6201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam6201&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyam6201&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam6201&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Satyam6201&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Satyam6201&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
 </p>
 
 ---
@@ -281,5 +258,7 @@ I'm a **Computer Science Engineer (B.Tech, 2022–2026)** building secure, scala
 <p align="center">
   📧 <b>satyamkmishraa@gmail.com</b> &nbsp;|&nbsp; 📱 <b>+91 6201902313</b>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=800&color=2563EB&center=true&vCenter=true&width=500&lines=%24+echo+%22Thanks+for+stopping+by!%22;%24+git+commit+-m+%22Let's+build+something%22" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
