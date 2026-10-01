@@ -3,7 +3,6 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Satyam6201&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Satyam6201?style=for-the-badge&color=2563eb&label=Followers&logo=github" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-2026-success?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
@@ -147,8 +146,8 @@ I'm a **Computer Science Engineer (B.Tech, 2022–2026)** with production experi
 <tr>
 <td width="50%">
 
-### 🎤 MockMate AI
-**AI Interview & ATS Resume Architect** · [GitHub](REPLACE_WITH_MOCKMATE_REPO_URL) · [Live](REPLACE_WITH_MOCKMATE_LIVE_URL)
+### 🎤 [MockMate AI](https://github.com/Satyam6201/MockMate-AI)
+**AI Interview & ATS Resume Architect** · 
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Redis` `Socket.IO` `LangChain` `OpenRouter` `Firebase Auth` `Stripe` `Tailwind CSS` `Docker`
 
